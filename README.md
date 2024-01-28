@@ -20,7 +20,7 @@ Modern Data Pipeine Tool - Mage [https://www.mage.ai/]
 ## Dataset Used
 Spotify dataset from Kaggle with various key information about different songs including track_name,	artist(s)_name,	artist_count,	released_year,	released_month,	released_day,	in_spotify_playlists,	in_spotify_charts, streams, and many more. 
 
-Here is the dataset used - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+Here is the dataset used - (https://github.com/moh1tt/spotify-de-pipeline/blob/master/spotify.csv)
 
 More info about dataset can be found here:
 
